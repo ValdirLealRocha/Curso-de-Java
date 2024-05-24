@@ -1,5 +1,8 @@
 // Aula 12 - https://youtu.be/P3VFnipYrcM?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW
 // Aprendendo sobre os métodos GET e SET - Curso de Java - Aula 12
+//
+// NOTA: até esta aula irá usar a classe jogador.java
+//
 public class CursoJavaAula12 {
 
   public static void main(String[] args) {

@@ -12,8 +12,8 @@ public class CursoJavaAula10 {
     // nome - j1
     // recebe valor - = new Jogador();
     // 3 Objetos j1, j2 e j3 instanciados separadamente.
-    Jogador jg1 = new Jogador(1);
-    Jogador jg2 = new Jogador(2);    
-    Jogador jg3 = new Jogador(3);
+    Jogador j1 = new Jogador(1);
+    Jogador j2 = new Jogador(2);    
+    Jogador j3 = new Jogador(3);
   }
 }

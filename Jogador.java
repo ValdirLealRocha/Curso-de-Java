@@ -6,6 +6,9 @@
 // De uma classe poderá se originar vários objetos. 
 // Da classe jogador, poderei ter vários objetos Jogadores, e cada um estará separado,
 // independente de outros objetos jogadores, porém, todos seguem a mesma regra definida na classe jogador.
+//
+// NOTA: esta classe estará sendo utilizada nas aulas 11, 11 e 12.
+//
 public class Jogador {
 
   // cria o atributo como public, acessado fora da classe também.
