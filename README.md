@@ -55,6 +55,8 @@ Java é uma das linguagens de prrogramação mais usadas no mundo, uma Linguagem
 
 # Aulas do Curso de Java:
 
+OBS.: No curso eu decidi separar as aulas em arquivos, para o meu aprendizado, não tome como base os meus estudos, siga as aulas e tenha a sua forma de trabalhar e de estudar. :)
+
 Aula 01 - Criando primeiro programa em Java
 
 Aula 02 - Comandos de impressão e primeiras prática com variáveis
