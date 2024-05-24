@@ -31,11 +31,17 @@ Essas tecnologias são muito populares no desenvolvimento web e são amplamente 
 
 # Neste exato momento vou iniciar meus estudos com o Java!
 Vou deixar aqui no GitHub todos os códigos que eu pratiquei através das aulas do Canal no Youtube: https://www.youtube.com/@cfbcursos do Bruno!
+
 Gostei do conteúdo e da didática apresentada pelo Bruno!
+
 Sou apenas um aluno que está exercitando e praticando de fato!
+
 Todos os créditos são do produtor do Canal @CFBCursos!
+
 Muito embora estarei postando o material que eu repliquei e digitei tudo na mão, fazendo assim melhorar e aumentar o meu conhecimento na prática com o Java!
+
 Na minha visão copiar somente o código e colar, não teria o mesmo efeito na experiência real de aprendizagem.
+
 OBS.: Não ganho nada financeiramente por estar indicando, então se deseja aprender é uma dica de aprendizagem!
 
 # Se gostou do material siga o Canal **https://www.youtube.com/@cfbcursos** e assista as aulas!
@@ -43,21 +49,35 @@ Bons estudo!
 
 # Curso-de-Java
 Na aula de do Curso de Java, vamos aprender as noções básicas de Java, configurar o ambiente para criar os programas Java e também criar nosso primeiro programa em Java.
+
 Java é uma das linguagens de prrogramação mais usadas no mundo, uma Linguagem Orientada a Objetos que tem uma portabilidade muito grande, o código escrito serve para qualquer Sistema Operacional que tenha a JVM instalada.
 
 # Aulas do Curso de Java:
 
 Aula 01 - Criando primeiro programa em Java
+
 Aula 02 - Comandos de impressão e primeiras prática com variáveis
+
 Aula 03 - Comandos de decisão em Java (IF, IF..ELSE, SWITCH e ?)
+
 Aula 04 - Obtendo dados do teclado com um objeto da classe Scanner
+
 Aula 05- Tipos de Loops em Java, For, While e Do While
+
 Aula 06 - Como criar Array/Vetor em Java
+
 Aula 07 - Métodos da classe Array em Java
+
 Aula 08 - Matrizes em Java
+
 Aula 09 - Entendendo Métodos em Java
+
 Aula 10 - Aprendendo sobre classes em Java #P1
+
 Aula 11 - Diferença entre public e private
+
 Aula 12 - Aprendendo sobre os métodos GET e SET
+
 Aula 13 - Métodos e atributos STATIC
+
 
