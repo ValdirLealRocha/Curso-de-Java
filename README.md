@@ -48,4 +48,16 @@ Java é uma das linguagens de prrogramação mais usadas no mundo, uma Linguagem
 # Aulas do Curso de Java:
 
 Aula 01 - Criando primeiro programa em Java
+Aula 02 - Comandos de impressão e primeiras prática com variáveis
+Aula 03 - Comandos de decisão em Java (IF, IF..ELSE, SWITCH e ?)
+Aula 04 - Obtendo dados do teclado com um objeto da classe Scanner
+Aula 05- Tipos de Loops em Java, For, While e Do While
+Aula 06 - Como criar Array/Vetor em Java
+Aula 07 - Métodos da classe Array em Java
+Aula 08 - Matrizes em Java
+Aula 09 - Entendendo Métodos em Java
+Aula 10 - Aprendendo sobre classes em Java #P1
+Aula 11 - Diferença entre public e private
+Aula 12 - Aprendendo sobre os métodos GET e SET
+Aula 13 - Métodos e atributos STATIC
 
