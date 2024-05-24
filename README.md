@@ -44,7 +44,8 @@ Na minha visão copiar somente o código e colar, não teria o mesmo efeito na e
 
 OBS.: Não ganho nada financeiramente por estar indicando, então se deseja aprender é uma dica de aprendizagem!
 
-# Se gostou do material siga o Canal **https://www.youtube.com/@cfbcursos** e assista as aulas!
+Se gostou do material siga o Canal **https://www.youtube.com/@cfbcursos** e assista as aulas!
+
 Bons estudo!
 
 # Curso-de-Java
