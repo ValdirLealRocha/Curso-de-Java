@@ -83,4 +83,20 @@ Aula 12 - Aprendendo sobre os métodos GET e SET
 
 Aula 13 - Métodos e atributos STATIC
 
+Aula 14 - Herança em Java
 
+Aula 15 - Entendendo SUPER em JAVA, superclasse e subclasse
+
+Aula 16 - PROTECTED em Java, como usar este modificador de acesso
+
+Aula 17 - Criando Calculadora em Java com Orientação a Objetos
+
+Aula 18 - Interface em Java POO
+
+Aula 19 - Classes ABSTRATAS em Java POO
+
+Aula 20 - Exercício Classes Java P1
+
+Aula 21 - Exercício Classes Java P2
+
+Aula 22 - Você sabe usar SWITCH CASE em Java? [Aprenda]
