@@ -11,10 +11,10 @@ public class CursoJavaAula18 {
 
   public static void main(String[] args) {
 
-   // Cria uma instância da Classe Animal que Implementa a Interface SerVivo
-    Animal n1 = new Animal();
+    // Cria uma instância da Classe Animal que Implementa a Interface SerVivo
+    //Animal n1 = new Animal(); //deu erro na aula 21 vim aqui e comentei... por fazer novas imoplementaçõs...
 
     // Executa o método info() da classe Animal
-    n1.info();
+    // n1.info(); //deu erro na aula 21 vim aqui e comentei... por fazer novas imoplementaçõs...
   }
 }

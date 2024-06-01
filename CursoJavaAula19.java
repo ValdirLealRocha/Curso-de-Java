@@ -13,10 +13,10 @@ public class CursoJavaAula19 {
     // a Classe Formiga herda da Classe Animal 
     // que é uma Calasse Abstrata 
     // que Implementa uma Interface SerVivo
-    Formiga f1 = new Formiga();
+    //Formiga f1 = new Formiga(); //deu erro na aula 21 vim aqui e comentei... por fazer novas imoplementaçõs...
 
     // usa o método info implementado na classe abstrata Animal...
-    f1.info();
+    // f1.info(); //deu erro na aula 21 vim aqui e comentei... por fazer novas imoplementaçõs...
 
   }
 }
