@@ -101,6 +101,14 @@ Aula 21 - Exercício Classes Java P2
 
 Aula 22 - Você sabe usar SWITCH CASE em Java? [Aprenda]
 
+Aula 23 - Você sabe usar BREAK e CONTINUE em Java? [Aprenda nesta aula]
+
+Aula 24 - Como criar e manipular Array em Java [Aprenda nesta aula]
+
+Aula 25 - Como criar Array de tipo personalizado [Aprenda nesta aula]
+
+Aula 26 - Você consegue resolver este desafio em Java? [Exercício Java]
+
 
 
 Aula 52 - 
