@@ -109,6 +109,24 @@ Aula 25 - Como criar Array de tipo personalizado [Aprenda nesta aula]
 
 Aula 26 - Você consegue resolver este desafio em Java? [Exercício Java]
 
+Aula 27 - Passando Arrays como parâmetros para funções
+
+Aula 28 - Passagem por valor e por referência em Java. Será que existe em Java?
+
+Aula 29 - Quantos parâmetros podem ser passados para uma mesma função?
+
+Aula 30 - Métodos que irão facilitar sua vida ao trabalhar com Arrays em Java
+
+Aula 31 - Como passar parâmetros para o programa? [String[] args]
+
+Aula 32 - Aprendendo sobre MATRIZES em JAVA
+
+Aula 33 - Como criar um jogo da velha em Java? [Aula prática]
+
+Aula 34 - Como criar um jogo da velha em Java? #P2 [Aula prática]
+
+Aula 35 = Como criar um jogo da velha em Java? #P3 [Aula prática]
+
 
 
 Aula 52 - 
